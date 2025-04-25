@@ -2,6 +2,8 @@
 
 The 3D Portfolio project is a highly engaging personal website that features animated 3D scenes, smooth camera transitions, interactive model showcases, and responsive design.
 
+View site at <a href="https://danield711.sg-host.com/">https://danield711.sg-host.com/</a>
+
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Three.js
